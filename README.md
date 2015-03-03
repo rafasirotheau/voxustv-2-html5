@@ -28,7 +28,7 @@ Instale complementos/plugins/extensões no seu navegador que permitam a instala�
 
 Quer contribuir? Fique a vontade! De sugestões ou commits ao script.
 
-## Todo's
+## Todo
 
 - Refatorar código
 
